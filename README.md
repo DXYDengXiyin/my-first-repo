@@ -7,6 +7,6 @@ Some git practice.
 I have the following python skills:
 
 -list and dic
--loops
 -re
+-pandas, numpy
 
